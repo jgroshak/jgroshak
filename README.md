@@ -1,4 +1,8 @@
-[![MasterHead](https://camo.githubusercontent.com/7b0d7056cf528da8971844af6dab6d746144ac7ef9b77af605ab7e3d3bc8a458/68747470733a2f2f6c6f6769636d6f6a6f2e636f6d2f6173736574732f646973742f6e65775f70616765732f696d616765732f6a732d6769662e676966)
+<p align="center">
+  <img width="800" height="400"
+src="https://camo.githubusercontent.com/7b0d7056cf528da8971844af6dab6d746144ac7ef9b77af605ab7e3d3bc8a458/68747470733a2f2f6c6f6769636d6f6a6f2e636f6d2f6173736574732f646973742f6e65775f70616765732f696d616765732f6a732d6769662e676966">
+</p>
+
 <h1 align="center">👋 I'm Josh Groshak</h1>
 <h3 align="center" >A proud digital nomad and aspiring data scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76115ba1ad43fa41914e45fa5973c74ad774a3e648e3&rid=giphy.gif&ct=s">
