@@ -10,8 +10,7 @@ src="https://camo.githubusercontent.com/7b0d7056cf528da8971844af6dab6d746144ac7e
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgroshak&label=Profile%20views&color=0e75b6&style=flat" alt="jgroshak" /> </p>
 
-My education in economics focused on analyzing data from many fields. I have spent the last year building a portfolio of projects that I found interesting, but that are applicable to real-world problems. These projects showcase my abilities and my eagerness to continue learning.
-In order to do so, I have completed additional courses in Python and Data Science, and continue to do so. In order to keep up-to-date with the latest tools and techniques out there. As well as building a portfolio of work to demonstrate my skills as a Python developer.
+As an economics graduate with a passion for data analysis, I have honed my skills through a diverse portfolio of real-world projects. My diverse project experience demonstrates my ability to apply data-driven solutions to complex problems across multiple industries. I am committed to staying up-to-date with the latest tools and techniques in the field, and have pursued further education in Python and Data Science to deepen my expertise. With a focus on delivering impactful results and a passion for continuous learning, I am confident in my abilities as a skilled Python developer.
 
 - 🔭 I’m currently working on **ChatGPT Lead Generation Tool**
 
