@@ -5,6 +5,7 @@ src="https://camo.githubusercontent.com/7b0d7056cf528da8971844af6dab6d746144ac7e
 
 <h1 align="center">👋 I'm Josh Groshak</h1>
 <h3 align="center" >A proud digital nomad and aspiring data scientist</h3>
+<h3 align="center" >Link to my projects folder: https://github.com/jgroshak/My-Projects</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76115ba1ad43fa41914e45fa5973c74ad774a3e648e3&rid=giphy.gif&ct=s">
 
 
