@@ -21,7 +21,7 @@ As an economics graduate with a passion for creating intuitive and efficient sol
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/josh-groshak-ba786713a/](https://www.linkedin.com/in/josh-groshak-ba786713a/)
 
-- ⚡ Fun fact **I'm a trained chef, that has worked 10 years in the industry to put me through university**
+- ⚡ Fun fact **I'm a trained chef, that has worked 10 years in the industry to put myself through university**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
