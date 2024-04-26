@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jgroshak/jgroshak/blob/main/github-readme-banner.gif" width="80%">
+  <img src="https://github.com/jgroshak/jgroshak/blob/main/github-readme-banner.gif" width="90%">
 </p>
 
 
