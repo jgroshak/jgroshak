@@ -1,6 +1,4 @@
-<p align="center">
 ![Alt Text](https://github.com/jgroshak/jgroshak/blob/main/github-readme-banner.gif)
-</p>
 
 
 
