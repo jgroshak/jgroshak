@@ -1,6 +1,6 @@
-<div style="text-align:center;">
+<p align="center">
   <img src="https://github.com/jgroshak/jgroshak/blob/main/github-readme-banner.gif" alt="Alt Text">
-</div>
+</p>
 
 
 
