@@ -1,9 +1,10 @@
 <p align="center">
- 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3oKIPpFhwsMNrRIjN6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animation-internet-technology-3oKIPpFhwsMNrRIjN6">via GIPHY</a></p>
-</div>
-  
+![Alt Text](relative_path_to_your_gif.gif)
 </p>
+
+
+
+
 
 <h1 align="center">👋 I'm Josh Groshak</h1>
 <h3 align="center" >A proud digital nomad and data specialist in IT</h3>
