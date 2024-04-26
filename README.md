@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="750" height="275"
-src="https://camo.githubusercontent.com/7b0d7056cf528da8971844af6dab6d746144ac7ef9b77af605ab7e3d3bc8a458/68747470733a2f2f6c6f6769636d6f6a6f2e636f6d2f6173736574732f646973742f6e65775f70616765732f696d616765732f6a732d6769662e676966">
+ 
+<iframe src="https://giphy.com/embed/3oKIPpFhwsMNrRIjN6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-internet-technology-3oKIPpFhwsMNrRIjN6"></a></p>
+  
 </p>
 
 <h1 align="center">👋 I'm Josh Groshak</h1>
