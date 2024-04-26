@@ -4,7 +4,7 @@ src="https://camo.githubusercontent.com/7b0d7056cf528da8971844af6dab6d746144ac7e
 </p>
 
 <h1 align="center">👋 I'm Josh Groshak</h1>
-<h3 align="center" >A proud digital nomad and aspiring data scientist in NLP</h3>
+<h3 align="center" >A proud digital nomad and data specialist in IT</h3>
 <h3 align="center" > Link to my projects folder: https://github.com/jgroshak/My-Projects</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76115ba1ad43fa41914e45fa5973c74ad774a3e648e3&rid=giphy.gif&ct=s">
 
@@ -13,9 +13,9 @@ src="https://camo.githubusercontent.com/7b0d7056cf528da8971844af6dab6d746144ac7e
 
 As an economics graduate with a passion for creating intuitive and efficient solutions. My areas of interest include machine learning, statistical analysis, and app development. I have honed my skills through a diverse portfolio of real-world projects. My diverse project experience demonstrates my ability to apply data-driven solutions to complex problems across multiple industries. I am committed to staying up-to-date with the latest tools and techniques in the field, and have pursued further education in Python and Data Science to deepen my expertise. With a focus on delivering impactful results and a passion for continuous learning, I am confident in my abilities as a skilled Python developer.
 
-- 🔭 I’m currently working on **ChatGPT Lead Generation Tool**
+- 🔭 I’m currently working on **APIs for LLMs**
 
-- 🌱 I’m currently learning **Solidity/Next JS**
+- 🌱 I’m currently learning **API Dev/Network Engineering**
 
 - 📫 How to reach me **joshgroshak@gmail.com**
 
