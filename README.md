@@ -1,5 +1,5 @@
 <p align="center">
-![Alt Text](relative_path_to_your_gif.gif)
+![Alt Text](https://github.com/jgroshak/jgroshak/blob/main/github-readme-banner.gif)
 </p>
 
 
