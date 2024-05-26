@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Josh Groshak</h1>
-<h3 align="center" >A proud digital nomad and data specialist in IT</h3>
+<h3 align="center" >A proud nerd and data specialist in IT</h3>
 <h3 align="center" > Link to my projects folder: https://github.com/jgroshak/My-Projects</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76115ba1ad43fa41914e45fa5973c74ad774a3e648e3&rid=giphy.gif&ct=s">
 
@@ -10,13 +10,13 @@ As an economics graduate with a passion for creating intuitive and efficient sol
 
 - 🔭 I’m currently working on **APIs for LLMs**
 
-- 🌱 I’m currently learning **API Dev/Network Engineering**
+- 🌱 I’m currently learning **API Dev/Network Engineering (CCNA)**
 
 - 📫 How to reach me **joshgroshak@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/josh-groshak-ba786713a/](https://www.linkedin.com/in/josh-groshak-ba786713a/)
 
-- ⚡ Fun fact **I'm a trained chef, that has worked 10 years in the industry to put myself through university**
+- ⚡ Fun fact **I'm a trained chef, that worked 12 years in the industry to fund myself through university**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
