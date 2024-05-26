@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/jgroshak/jgroshak/blob/main/github-readme-banner.gif" height="70%" width="95%">
-</p>
-
-
-
 <h1 align="center">👋 I'm Josh Groshak</h1>
 <h3 align="center" >A proud digital nomad and data specialist in IT</h3>
 <h3 align="center" > Link to my projects folder: https://github.com/jgroshak/My-Projects</h3>
