@@ -12,7 +12,7 @@ As an economics graduate with a passion for creating intuitive and efficient sol
 
 - 🔭 I’m currently working on **APIs for LLMs**
 
-- 🌱 I’m currently learning **API Dev/Network Engineering (CCNA)**
+- 🌱 I’m currently learning **Vector Database Design/Network Engineering (CCNA)**
 
 - 📫 How to reach me **joshgroshak@gmail.com**
 
