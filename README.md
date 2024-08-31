@@ -34,6 +34,7 @@ As an economics graduate with a passion for creating intuitive and efficient sol
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
 </a>
 
+<br>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgroshak&show_icons=true&locale=en&layout=compact" alt="jgroshak" /></p>
