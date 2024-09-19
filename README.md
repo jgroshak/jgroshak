@@ -8,7 +8,7 @@
 
 As an economics graduate with a passion for creating intuitive and efficient solutions. My areas of interest include machine learning, statistical analysis, and app development. I have honed my skills through a diverse portfolio of real-world projects. My diverse project experience demonstrates my ability to apply data-driven solutions to complex problems across multiple industries. I am committed to staying up-to-date with the latest tools and techniques in the field, and have pursued further education in Python and Data Science to deepen my expertise. With a focus on delivering impactful results and a passion for continuous learning, I am confident in my abilities as a skilled Python developer.
 
-- ⚡ I just finished work a custom Ad-blocker and a VPN for my office that runs on the router level (using a Raspberry Pi)
+- ⚡ I just finished work a custom Ad-blocker and a VPN (with remote access) for my office that runs on the router level (using a Raspberry Pi)
 
 - 🔭 I’m currently working on **APIs for LLMs**
 
