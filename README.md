@@ -17,7 +17,7 @@ My areas of interest include machine learning, statistical analysis, and app dev
 
 - 📫 How to reach me **joshgroshak@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/josh-groshak-ba786713a/](https://www.linkedin.com/in/josh-groshak-ba786713a/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/josh-groshak-ba786713a/](https://www.linkedin.com/in/josh-groshak/)
 
 - Fun fact **I'm a trained chef, that worked 12 years in the industry to fund myself through university**
 
