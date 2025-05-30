@@ -15,7 +15,7 @@ My areas of interest include machine learning, statistical analysis, and app dev
 
 - 🌱 I’m currently learning **Vector Database Design/Network Engineering (CCNA)**
 
-- 📫 How to reach me **joshgroshak@gmail.com**
+- 📫 How to reach me **josh@groshakdatasolutions.com**
 
 - 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/josh-groshak/)
 
