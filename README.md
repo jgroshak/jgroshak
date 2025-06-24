@@ -7,10 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgroshak&label=Profile%20views&color=0e75b6&style=flat" alt="jgroshak" /> </p>
 
-My areas of interest include machine learning, statistical analysis, and app development. I have honed my skills through a diverse portfolio of real-world projects. My diverse project experience demonstrates my ability to apply data-driven solutions to complex problems across multiple industries. I am committed to staying up-to-date with the latest tools and techniques in the field, and have pursued further education in Python and Data Science to deepen my expertise. With a focus on delivering impactful results and a passion for continuous learning, I am confident in my abilities as a skilled Python developer.
+  My areas of interest include cybersecurity, applied mathematics, and technology. I have honed my skills through challenging projects that apply data-driven solutions to complex problems, across multiple industries. I am committed to staying up-to-date with the latest tools and techniques in the field, and continue to further my education to deepen my expertise. With a focus on delivering impactful results and a passion learning, I am confident in my abilities as an IT specialist.
+
 
 - 🏠 **Home Lab Projects: Pi-Hole (Ad-blocker), WireGuard (VPN with secure remote access), Unbound (Recursive DNS Server), Jellyfin Media Server (NGINX Server)
   Docker Containters: Local File Sharing Server, Auto-File Backups to Local Drive**
+
 
 - 🔭 I’m currently working on **APIs for LLMs**
 
