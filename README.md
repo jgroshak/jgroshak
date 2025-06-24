@@ -9,7 +9,8 @@
 
 My areas of interest include machine learning, statistical analysis, and app development. I have honed my skills through a diverse portfolio of real-world projects. My diverse project experience demonstrates my ability to apply data-driven solutions to complex problems across multiple industries. I am committed to staying up-to-date with the latest tools and techniques in the field, and have pursued further education in Python and Data Science to deepen my expertise. With a focus on delivering impactful results and a passion for continuous learning, I am confident in my abilities as a skilled Python developer.
 
-- ⚡ I just finished work a custom Ad-blocker and a VPN (with remote access) for my office that runs on the router level (using a Raspberry Pi)
+- 🏠 **Home Lab Projects: Pi-Hole (Ad-blocker), WireGuard (VPN with secure remote access), Unbound (Recursive DNS Server), Jellyfin Media Server (NGINX Server)
+  Docker Containters: Local File Sharing Server, Auto-File Backups to Local Drive**
 
 - 🔭 I’m currently working on **APIs for LLMs**
 
