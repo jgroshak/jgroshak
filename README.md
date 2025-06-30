@@ -11,7 +11,7 @@
 
 
 - 🏠 Home Lab Projects: **Pi-Hole (Ad-blocker), WireGuard (VPN with secure remote access), Unbound (Recursive DNS Server), Jellyfin Media Server (NGINX Server)
-  Docker Containters: Local File Sharing Server, Auto-File Backups to Local Drive**
+  Docker Containters: Local File Sharing Server, Auto File Backups to Local Drive**
 
 
 - 🔭 I’m currently working on **APIs for LLMs**
