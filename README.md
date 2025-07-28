@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **APIs for LLMs**
 
-- 🌱 I’m currently learning **Vector Database Design/Network Engineering (CCNA)**
+- 🌱 I’m currently learning **Cisco Certificate in Ethical Hacking/Vector Database Design**
 
 - 📫 How to reach me **josh@groshakdatasolutions.com**
 
