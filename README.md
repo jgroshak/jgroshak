@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgroshak&label=Profile%20views&color=0e75b6&style=flat" alt="jgroshak" /> </p>
 
-  My areas of interest include cybersecurity, applied mathematics, and technology. I have developed my skills through challenging projects that apply data-driven solutions to complex problems, across multiple industries. I am committed to staying up-to-date with the latest tools and techniques. Constantly learning.
+  My areas of interest include cybersecurity, applied mathematics, and technology. I have developed my skills through challenging projects that apply data-driven solutions to complex problems, across multiple industries. Constantly learning to stay up-to-date with the latest tools and techniques.
 
 
 - 🏠 Home Lab Projects: **Pi-Hole (Ad-blocker), WireGuard (VPN with secure remote access), Unbound (Recursive DNS Server), Jellyfin Media Server (NGINX Server)
