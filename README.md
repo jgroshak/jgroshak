@@ -1,5 +1,6 @@
 <h1 align="center">👋 I'm Josh Groshak</h1>
 <h3 align="center" > Digital Freedom Advocate and IT specialist</h3>
+<h3 align="center" > Words I live by: The 1% rule (improving by 1% every day for a year makes you nearly 37 times better by the end of it)</h3>
 <h3 align="center" > Link to my website and service offerings: https://groshakdatasolutions.com</h3>
 <h3 align="center" > Link to my portfolio projects folder: https://github.com/jgroshak/My-Projects</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76115ba1ad43fa41914e45fa5973c74ad774a3e648e3&rid=giphy.gif&ct=s">
@@ -7,14 +8,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgroshak&label=Profile%20views&color=0e75b6&style=flat" alt="jgroshak" /> </p>
 
-  My areas of interest include cybersecurity, applied mathematics, and technology. I have honed my skills through challenging projects that apply data-driven solutions to complex problems, across multiple industries. I am committed to staying up-to-date with the latest tools and techniques in the field, and continue to further my education to deepen my expertise. With a focus on delivering impactful results and a passion learning, I am confident in my abilities as an IT specialist.
+  My areas of interest include cybersecurity, applied mathematics, and technology. I have developed my skills through challenging projects that apply data-driven solutions to complex problems, across multiple industries. I am committed to staying up-to-date with the latest tools and techniques. Constantly learning.
 
 
 - 🏠 Home Lab Projects: **Pi-Hole (Ad-blocker), WireGuard (VPN with secure remote access), Unbound (Recursive DNS Server), Jellyfin Media Server (NGINX Server)
   Docker Containters: Local File Sharing Server, Auto File Backups to Local Drive**
 
 
-- 🔭 I’m currently working on **APIs for LLMs**
+- 🔭 I’m currently working on **A new startup that offers personal cyber security for individuals**
 
 - 🌱 I’m currently learning **Cisco Certificate in Ethical Hacking/Vector Database Design**
 
