@@ -33,110 +33,118 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/php-original.svg" alt="php" width="40" height="40"/> 
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/R-original.webp" alt="r" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/docker-icon.svg" alt="docker" width="40" height="40"/>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
-
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/aws.svg" alt="aws" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/azure.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/gcp.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/git.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/linux.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/tableau.svg" alt="tableau" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/powerbi.svg" alt="powerbi" width="40" height="40"/>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/SQlite-original.svg" alt="sqlite" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/mongodb.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/mongoDB-original.webp" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/java.svg" alt="java" width="40" height="40"/>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/react.svg" alt="react" width="40" height="40"/>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/NumPy-original.webp" alt="numpy" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/nodejs.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/Matplotlib-original.png" alt="matplotlib" width="40" height="40"/>
   </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/hadoop.svg" alt="hadoop" width="40" height="40"/>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/Seaborn-original.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/Scikitlearn-original.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://scipy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/SciPy-original.webp" alt="scipy" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/Tensorflow-orignal.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/OpenCV-original.svg" alt="opencv" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/aws_light.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/bash-orignal.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/Linux-orignal.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/docker-orignal.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/kubernetes-original.webp" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/databricks-original.webp" alt="databricks" width="40" height="40"/>
+  </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/apache-spark-original.webp" alt="spark" width="40" height="40"/>
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/cloudflare.svg" alt="cloudflare" width="40" height="40"/>
+  </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/html5-original.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/css3-original.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/php.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/Flask-original.svg" alt="flask" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/django-original.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/bootstrap-original.webp" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/heroku-original.svg" alt="heroku" width="40" height="40"/>
+  </a>
+  <a href="https://www.highcharts.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/Highcharts-original.webp" alt="highcharts" width="40" height="40"/>
+  </a>
+  <a href="https://bokeh.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/bokeh-original.webp" alt="bokeh" width="40" height="40"/>
+  </a>
+  <a href="https://stripe.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/stripe-original.svg" alt="stripe" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/postman-original.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://swagger.io/tools/swaggerhub/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/swaggerhub-original.svg" alt="swaggerhub" width="40" height="40"/>
+  </a>
+  <a href="https://cloudstack.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jgroshak/groshakdatasolutions.github.io/main/images/apache-cloudstack-orginal.webp" alt="cloudstack" width="40" height="40"/>
   </a>
 </p>
